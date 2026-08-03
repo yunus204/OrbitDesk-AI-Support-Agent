@@ -235,7 +235,8 @@ During development, I used AI coding assistants (ChatGPT) to:
 
 I understand the complete codebase and can explain the architecture, workflow, and implementation decisions during an interview.
 ---
-workflow diagram: <img width="1024" height="1536" alt="Local Retrieval-Augmented Generation (RAG) Workflow png" src="https://github.com/user-attachments/assets/8fb5415f-d9eb-4bb2-b2de-a922c3e43c1d" />
+workflow diagram: <img width="1536" height="1024" alt="Local Retrieval-Augmented Generation (RAG) Workflow png" src="https://github.com/user-attachments/assets/f34809e4-559b-4493-a5d8-5366fc31b27c" />
+
 
 ---
 
